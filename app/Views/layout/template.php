@@ -115,7 +115,7 @@ if (!empty($categoriesAktivitas)) {
     - custom css link
   -->
     <link rel="icon" href="<?= base_url('assets/img/logo2.png'); ?>">
-    <link rel="stylesheet" href="<?= base_url('assets/css/style.css'); ?>">
+    <link rel="stylesheet" href="<?= base_url('assets/css/main.css'); ?>">
     <!-- 
     - google font link
   -->
